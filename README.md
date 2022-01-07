@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @co-jaeger
-- 👀 I’m interested in STEM
-- 🌱 I’m currently an Astrophysics Student/Researcher doing research into stellar mergers
+- 👀 I’m interested in STEM, Linux, and 
+- 🌱 I’m currently an Astrophysics Student/Researcher doing research into stellar mergers. Part-time Machinist.
 - 📫 christian-obrien@uiowa.edu
 
 <!---
