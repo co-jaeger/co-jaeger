@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @co-jaeger
-- 👀 I’m interested in STEM, Linux, and 
-- 🌱 I’m currently an Astrophysics Student/Researcher doing research into stellar mergers. Part-time Machinist.
-- 📫 christian-obrien@uiowa.edu
+- 👀 I’m interested in STEM, Linux, and Desktop Environment Development
+- 🌱 I’m currently an Astrophysics Student/Researcher doing research into stellar mergers.
 
 <!---
 co-jaeger/co-jaeger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
